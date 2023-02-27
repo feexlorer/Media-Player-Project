@@ -1,0 +1,199 @@
+﻿<Window x:Class="PlayMusic.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PlayMusic"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        mc:Ignorable="d"
+        Title="Media Play" Height="650" Width="1200" MinHeight="700" MinWidth="1000" Loaded="Window_Loaded">
+    <Window.Resources>
+        <!-- .... other resources .... -->
+
+        <!--A Style that affects all TextBlocks-->
+        <!--<Style TargetType="TextBlock">
+            <Setter Property="HorizontalAlignment" Value="Center" />
+            <Setter Property="FontFamily" Vla/>
+            <Setter Property="FontSize" Value="14"/>
+        </Style>-->
+
+        <!--A Style that extends the previous TextBlock Style with an x:Key of TitleText-->
+        <!--<Style BasedOn="{StaticResource {x:Type TextBlock}}"
+           TargetType="TextBlock"
+           x:Key="TitleText">
+            <Setter Property="FontSize" Value="26"/>
+            <Setter Property="Foreground">
+                <Setter.Value>
+                    <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1">
+                        <LinearGradientBrush.GradientStops>
+                            <GradientStop Offset="0.0" Color="#90DDDD" />
+                            <GradientStop Offset="1.0" Color="#5BFFFF" />
+                        </LinearGradientBrush.GradientStops>
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+        </Style>-->
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="white"></Setter>
+            <Setter Property="BorderThickness" Value="0,0,0,0"/>
+            <Setter Property="Cursor" Value="Hand"/>
+        </Style>
+    </Window.Resources>
+
+    <Canvas x:Name="LayoutRoot" Background="AliceBlue" MinHeight="650" MinWidth="1000">
+        <MediaElement ToolTip="DoubleClick to Enter/Exit Fullscreen mode" 
+                      MouseLeftButtonUp="Player_MouseLeftButtonUp" MediaOpened="player_MediaOpened" 
+                      Canvas.Left="25" Canvas.Top="10"
+                      x:Name="Player" LoadedBehavior="Manual"  Width="720" Height="400"></MediaElement>
+        <Button BorderBrush="Transparent" Background="Transparent" x:Name="Play_Pause_button"
+                Padding="0" Click="Play_Pause_Click" Width="100" Height="80"
+                Canvas.Left="320" Canvas.Top="515" HorizontalAlignment="Left" VerticalAlignment="Top" ToolTip="Play/Pause">
+            <materialDesign:PackIcon Name="btnPlayPause" Kind="PlayCircleOutline" Width="80" Height="80" Foreground="Black" ></materialDesign:PackIcon>
+        </Button>
+
+        <materialDesign:PackIcon Kind="PlaySpeed"  Foreground="Black" VerticalAlignment="Center" Width="30" Height="30" 
+                                 Canvas.Top="535" Canvas.Left="60" ToolTip="Play speed"/>
+        <StackPanel Margin="10" Canvas.Left="80" Canvas.Top="530">
+            <ComboBox Name="speedRatioSlider" VerticalAlignment="Center" SelectionChanged="speedRatioSlider_SelectionChanged" SelectedValuePath="Tag" FontWeight="Black" FontSize="16" Padding="0,0,-2,0">
+                <ComboBoxItem Tag="2">2x</ComboBoxItem>
+                <ComboBoxItem Tag="1.75">1.75x</ComboBoxItem>
+                <ComboBoxItem Tag="1.5">1.5x</ComboBoxItem>
+                <ComboBoxItem Tag="1.25">1.25x</ComboBoxItem>
+                <ComboBoxItem Tag="1" IsSelected="True">1x</ComboBoxItem>
+                <ComboBoxItem Tag="0.75">0.75x</ComboBoxItem>
+                <ComboBoxItem Tag="0.5">0.5x</ComboBoxItem>
+                <ComboBoxItem Tag="0.25">0.25x</ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+        <Button ToolTip="FullScreen" x:Name="FullScreenButton" Click="FullScreenButton_Click" 
+                Canvas.Left="590" Canvas.Top="530" Background="AliceBlue">
+            <materialDesign:PackIcon x:Name="FullScreenBtn" Kind="ArrowExpandAll" Height="40" Width="40" VerticalAlignment="Center" HorizontalAlignment="Center"></materialDesign:PackIcon>
+        </Button>
+        <TextBlock Width="480" Height="40" x:Name="Name_playmusic" FontSize="30" 
+                   FontWeight="Medium" FontStyle="Italic"  Foreground="HotPink" 
+                   Canvas.Left="140" Canvas.Top="420" HorizontalAlignment="Left" 
+                   TextAlignment="Center" VerticalAlignment="Center"></TextBlock>
+
+        <Button Name="Prev_button" Click="Prev_button_Click"  BorderBrush="Transparent"
+                Background="Transparent" Width="50" Padding="0" Height="50" Canvas.Left="240" Canvas.Top="525" 
+                HorizontalAlignment="Left" VerticalAlignment="Top" ToolTip="Play Previous">
+            <materialDesign:PackIcon Kind="SkipPrevious"  Foreground="Black" VerticalAlignment="Center" 
+                                     Width="50" Height="50"/>
+        </Button>
+
+        <Button BorderBrush="Transparent" Background="Transparent" Name="Next_button" 
+                Click="Next_button_Click" Width="50" Height="50" Padding="0" Canvas.Left="440" Canvas.Top="525" HorizontalAlignment="Left" VerticalAlignment="Top" ToolTip="Play Next">
+            <materialDesign:PackIcon Kind="SkipNext"  Foreground="Black" Width="50" Height="50" VerticalAlignment="Center"/>
+        </Button>
+
+
+        <Button  BorderBrush="Transparent" ToolTip="Repeat" Background="Transparent" Name="Loop_button" 
+                 Click="Loop_button_Click" Width="50" Height="50" Canvas.Left="150" Canvas.Top="525" 
+                 HorizontalAlignment="Left" VerticalAlignment="Top">
+            <materialDesign:PackIcon Kind="RepeatOff" Name="iconRepeat" Foreground="Black" Width="40" Height="40" />
+        </Button>
+
+        <Button BorderBrush="Transparent" Background="Transparent" ToolTip="Play random" 
+                Padding="0" Name="Random_button" Click="Random_button_Click" Width="50" Height="50" 
+                Canvas.Left="515" Canvas.Top="525" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <materialDesign:PackIcon Kind="ShuffleVariant" Name="iconShuffle" Foreground="Black" Width="40" Height="40" />
+        </Button>
+
+        <TextBlock x:Name="progressSlider" Width="40" Height="20" Canvas.Left="60" FontSize="16" Canvas.Top="465" Text="00:00" HorizontalAlignment="Left" VerticalAlignment="Center" ></TextBlock>
+
+        <Slider x:Name="ProcessSlide" Focusable="False" Width="500" Height="20" Canvas.Left="120" Canvas.Top="465" ValueChanged="Slide_valueChange" IsMoveToPointEnabled="True" ToolTipService.ShowOnDisabled="True" MouseMove="ProcessSlide_MouseMove" >
+            <Slider.ToolTip>
+                <StackPanel>
+
+                    <Border Height="250" Width="250" Background="Transparent"  BorderThickness="5,5,10,10" CornerRadius="10,100,10,100" >
+
+                        <MediaElement x:Name="PreviewPlayer" Volume="0" Margin="5"/>
+                    </Border>
+
+
+                </StackPanel>
+            </Slider.ToolTip>
+            <ToolTipService.Placement>Top</ToolTipService.Placement>
+
+        </Slider>
+
+
+        <TextBlock x:Name="TotalSlider" Width="40" Height="20" Canvas.Left="645" FontSize="16" Canvas.Top="465" HorizontalAlignment="Left" VerticalAlignment="Center">00.00</TextBlock>
+
+        <Button Name="btn_muted" Focusable="False" ToolTip="Mute" Click="btn_muted_Click"
+                Width="30"  Padding="1"  Height="30" Background="{x:Null}" BorderBrush="{x:Null}" 
+                Canvas.Left="250" Canvas.Top="480" >
+            <StackPanel>
+                <materialDesign:PackIcon Kind="VolumeMute" Foreground="Black" VerticalAlignment="Center" Width="30" Height="30"/>
+            </StackPanel>
+        </Button>
+        <Slider x:Name="VolumeSlide" Focusable="False" Width="150" Height="20" Canvas.Left="295" Canvas.Top="485" HorizontalAlignment="Left" VerticalAlignment="Center" ValueChanged="VolumeSlide_ValueChanged" IsMoveToPointEnabled="True"></Slider>
+        <Button Name="btn_maxVolume" Focusable="False" ToolTip="Max volume" Click="btn_maxVolume_Click" Width="30"  Padding="1"  Height="30" Background="{x:Null}" BorderBrush="{x:Null}" Canvas.Left="450" Canvas.Top="480">
+            <materialDesign:PackIcon Kind="VolumeHigh" Foreground="Black" VerticalAlignment="Center" Width="30" Height="30"/>
+        </Button>
+        <StackPanel  Canvas.Right="0" Canvas.Top="10" Background="Pink" Width="380"
+                     Height="634" Canvas.Left="790" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <TextBlock FontSize="50" FontWeight="Bold" HorizontalAlignment="Center" Foreground="DeepPink">
+                <Image Width="41" Height="30" Source="/Music_icon.png"></Image>
+                List Music
+            </TextBlock>
+            <TabControl>
+                <TabItem Header="PlayList">
+                    <StackPanel>
+                        <ListBox x:Name="ListMusic"  MouseDoubleClick="ListBox_MouseDoubleClick" Width="386"  Height="411" FontSize="18" 
+                                 Foreground="AliceBlue" FontStyle="Italic"
+                                 FontWeight="Bold">
+
+                        </ListBox>
+                        <WrapPanel >
+                            <Button ToolTip="Clear Playlist" x:Name="DeletePlaylistButton" Click="DeletePlaylistButton_Click"   Background="Pink" 
+                                    HorizontalAlignment="Right" Height="50" Width="50" Margin="220,5,10,5"
+                                    materialDesign:ColorZoneAssist.Background="Pink">
+                                <materialDesign:PackIcon Kind="garbage"  Name="icondustbin" MouseDown="MouseDown" Background="Pink" Foreground="White"
+                                                         Width="50" Height="50"/>
+                            </Button>
+
+                            <Button ToolTip="Save Playlist" x:Name="SavePlaylistButton" Click="SavePlaylistButton_Click"  Background="Pink"
+                                    HorizontalAlignment="Right" Height="50" Width="50" Margin="20,5,30,5"
+                                    materialDesign:ColorZoneAssist.Background="pink">
+                                <materialDesign:PackIcon Kind="Heart"  Name="iconheart"  Background="Pink" Foreground="White" Width="50" Height="50"/>
+                            </Button>
+                        </WrapPanel>
+                        <WrapPanel Orientation="Horizontal" Background="LightPink">
+                            <TextBlock Height="40" Width="180" HorizontalAlignment="Center" Background="AliceBlue" Margin="5,5,5,5">
+                                <Image Source="/Music_icon.png" Width="40" Height="40"></Image>
+                                 <Button  BorderBrush="WhiteSmoke"  Opacity="1" FontSize="18" 
+                                          Foreground="Violet" Background="AliceBlue" FontStyle="Italic" 
+                                 Name="Browse_button" Width="140" Height="40" Click="Browse_button_Click"
+                                 HorizontalAlignment="Center" VerticalAlignment="Center" ToolTip="Browse Media">
+                                    Browse
+                                </Button>
+                            </TextBlock>
+                            <TextBlock ToolTip="Load Playlist"  Height="40" Width="180" HorizontalAlignment="Center" Background="AliceBlue" Margin="5,5,5,5">
+                                    <Image Source="/ListMusic.png" Width="40" Height="40"></Image>
+                                    <Button x:Name="LoadPlaylistButton" Background="AliceBlue" Click="LoadPlaylistButton_Click" Height="40" Width="140" FontSize="16"  FontStyle="Italic" Foreground="Violet">
+                                       Load Playlist
+                                    </Button>
+                            </TextBlock>
+                        </WrapPanel>
+                    </StackPanel>
+                </TabItem>
+                <TabItem Header="Recently Played">
+                    <StackPanel>
+                        <ListBox x:Name="RecentlyPlayed" Opacity="0.3" MouseDoubleClick="RecentlyPlayed_MouseDoubleClick" Width="312"  Height="526" FontSize="16" Foreground="DeepPink" FontStyle="Italic" FontWeight="Bold"  >
+                        </ListBox>
+
+                    </StackPanel>
+                </TabItem>
+            </TabControl>
+        </StackPanel>
+    </Canvas>
+   
+</Window>

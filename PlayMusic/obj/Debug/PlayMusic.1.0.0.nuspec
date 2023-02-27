@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PlayMusic</id>
+    <version>1.0.0</version>
+    <authors>PlayMusic</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="FontAwesome.Sharp" version="6.1.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.runtimeconfig.json" target="lib\net6.0-windows7.0\PlayMusic.runtimeconfig.json" />
+    <file src="F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.dll" target="lib\net6.0-windows7.0\PlayMusic.dll" />
+  </files>
+</package>

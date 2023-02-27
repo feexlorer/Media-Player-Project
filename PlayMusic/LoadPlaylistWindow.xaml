@@ -1,0 +1,15 @@
+﻿<Window x:Class="PlayMusic.LoadPlaylistWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PlayMusic"
+        mc:Ignorable="d"
+        Title="LoadPlaylistWindow" Height="490" Width="270" Loaded="Window_Loaded">
+    <Canvas>
+        <TextBlock Canvas.Left="60" Canvas.Top="35" FontSize="20" FontWeight="Bold" Foreground="Purple" HorizontalAlignment="Left" VerticalAlignment="Center">Saved Playlists</TextBlock>
+        <ListBox x:Name="LoadPlaylist" Height="300" Width="208" Canvas.Left="25" Canvas.Top="67" HorizontalAlignment="Left" VerticalAlignment="Center"></ListBox>
+        <Button x:Name="ConfirmButton" Click="ConfirmButton_Click" Canvas.Left="31" Canvas.Top="392" HorizontalAlignment="Left" VerticalAlignment="Center">Confirm</Button>
+        <Button x:Name="CancelButton" Click="CancelButton_Click" Canvas.Left="159" Canvas.Top="392" HorizontalAlignment="Left" VerticalAlignment="Center">Cancel</Button>
+    </Canvas>
+</Window>

@@ -1,0 +1,176 @@
+D:\C#\PlayMusic\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.exe
+D:\C#\PlayMusic\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.deps.json
+D:\C#\PlayMusic\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.runtimeconfig.json
+D:\C#\PlayMusic\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.dll
+D:\C#\PlayMusic\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.pdb
+D:\C#\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.csproj.AssemblyReference.cache
+D:\C#\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\C#\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\App.g.cs
+D:\C#\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\PlayMusic_MarkupCompile.cache
+D:\C#\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\PlayMusic_MarkupCompile.lref
+D:\C#\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\MainWindow.baml
+D:\C#\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.g.resources
+D:\C#\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.AssemblyInfoInputs.cache
+D:\C#\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.AssemblyInfo.cs
+D:\C#\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.csproj.CoreCompileInputs.cache
+D:\C#\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.dll
+D:\C#\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\refint\PlayMusic.dll
+D:\C#\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.pdb
+D:\C#\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.genruntimeconfig.cache
+D:\C#\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\ref\PlayMusic.dll
+D:\C#\PlayMusic\PlayMusic\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\C#\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.csproj.CopyComplete
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.exe
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.deps.json
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.runtimeconfig.json
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.pdb
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.csproj.AssemblyReference.cache
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\App.g.cs
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic_MarkupCompile.cache
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic_MarkupCompile.lref
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\MainWindow.baml
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.g.resources
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.AssemblyInfoInputs.cache
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.AssemblyInfo.cs
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.csproj.CoreCompileInputs.cache
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\refint\PlayMusic.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.pdb
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.genruntimeconfig.cache
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\ref\PlayMusic.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.csproj.CopyComplete
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\App.baml
+D:\github\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.exe
+D:\github\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.deps.json
+D:\github\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.runtimeconfig.json
+D:\github\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.dll
+D:\github\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.pdb
+D:\github\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\github\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\github\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.csproj.AssemblyReference.cache
+D:\github\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\github\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\App.g.cs
+D:\github\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic_MarkupCompile.cache
+D:\github\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic_MarkupCompile.lref
+D:\github\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\App.baml
+D:\github\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\MainWindow.baml
+D:\github\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.g.resources
+D:\github\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.AssemblyInfoInputs.cache
+D:\github\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.AssemblyInfo.cs
+D:\github\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.csproj.CoreCompileInputs.cache
+D:\github\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.csproj.CopyComplete
+D:\github\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.dll
+D:\github\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\refint\PlayMusic.dll
+D:\github\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.pdb
+D:\github\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.genruntimeconfig.cache
+D:\github\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\ref\PlayMusic.dll
+D:\github\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\github\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\LoadPlaylistWindow.g.cs
+D:\github\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\SavePlaylistWindow.g.cs
+D:\github\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\LoadPlaylistWindow.baml
+D:\github\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\SavePlaylistWindow.baml
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.exe
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.deps.json
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.runtimeconfig.json
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.pdb
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.csproj.AssemblyReference.cache
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\LoadPlaylistWindow.g.cs
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\SavePlaylistWindow.g.cs
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\App.g.cs
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic_MarkupCompile.cache
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic_MarkupCompile.lref
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\App.baml
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\LoadPlaylistWindow.baml
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\MainWindow.baml
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\SavePlaylistWindow.baml
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.g.resources
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.AssemblyInfoInputs.cache
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.AssemblyInfo.cs
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.csproj.CoreCompileInputs.cache
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.csproj.CopyComplete
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\refint\PlayMusic.dll
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.pdb
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.genruntimeconfig.cache
+F:\Kỳ_1_Năm3\Lập_Trinh_Window\Đồ án 2\PlayMusic2\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\ref\PlayMusic.dll
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.exe
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.deps.json
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.runtimeconfig.json
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.dll
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.pdb
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.csproj.AssemblyReference.cache
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\LoadPlaylistWindow.g.cs
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\SavePlaylistWindow.g.cs
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\App.g.cs
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic_MarkupCompile.cache
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic_MarkupCompile.lref
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\App.baml
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\LoadPlaylistWindow.baml
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\MainWindow.baml
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\SavePlaylistWindow.baml
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.g.resources
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.AssemblyInfoInputs.cache
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.AssemblyInfo.cs
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.csproj.CoreCompileInputs.cache
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.csproj.CopyComplete
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.dll
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\refint\PlayMusic.dll
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.pdb
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.genruntimeconfig.cache
+D:\C#\PlayMusic\PlayMusic-\PlayMusic-\PlayMusic\obj\Debug\net6.0-windows\ref\PlayMusic.dll
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.exe
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.deps.json
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.runtimeconfig.json
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.dll
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\bin\Debug\net6.0-windows\PlayMusic.pdb
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.csproj.AssemblyReference.cache
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\LoadPlaylistWindow.g.cs
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\SavePlaylistWindow.g.cs
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\PlayMusic_MarkupCompile.cache
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\PlayMusic_MarkupCompile.lref
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\App.baml
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\LoadPlaylistWindow.baml
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\SavePlaylistWindow.baml
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.g.resources
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.AssemblyInfoInputs.cache
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.AssemblyInfo.cs
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.csproj.CoreCompileInputs.cache
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.csproj.CopyComplete
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.dll
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\refint\PlayMusic.dll
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.pdb
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\PlayMusic.genruntimeconfig.cache
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\obj\Debug\net6.0-windows\ref\PlayMusic.dll
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\bin\Debug\net6.0-windows\WindowsInput.dll
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\bin\Debug\net6.0-windows\Eagle.dll
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\bin\Debug\net6.0-windows\NHotkey.dll
+C:\Users\vinhp\Source\Repos\PlayMusic\PlayMusic\bin\Debug\net6.0-windows\NHotkey.Wpf.dll
+D:\github\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\Eagle.dll
+D:\github\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\WindowsInput.dll
+D:\github\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\NHotkey.dll
+D:\github\PlayMusic-\PlayMusic\bin\Debug\net6.0-windows\NHotkey.Wpf.dll

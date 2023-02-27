@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)materialdesignthemes\4.6.1\build\MaterialDesignThemes.targets" Condition="Exists('$(NuGetPackageRoot)materialdesignthemes\4.6.1\build\MaterialDesignThemes.targets')" />
+    <Import Project="$(NuGetPackageRoot)harpy.clrv4\1.0.8369.11945\build\net40\Harpy.CLRv4.targets" Condition="Exists('$(NuGetPackageRoot)harpy.clrv4\1.0.8369.11945\build\net40\Harpy.CLRv4.targets')" />
+    <Import Project="$(NuGetPackageRoot)hotkey\1.0.8369.11945\build\net40\HotKey.targets" Condition="Exists('$(NuGetPackageRoot)hotkey\1.0.8369.11945\build\net40\HotKey.targets')" />
+  </ImportGroup>
+</Project>

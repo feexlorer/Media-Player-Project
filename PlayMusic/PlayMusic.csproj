@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ListMusic.png" />
+    <None Remove="Loop_Btn.png" />
+    <None Remove="Loop_btnClick.png" />
+    <None Remove="Maxvolume.png" />
+    <None Remove="MaxVolumee.png" />
+    <None Remove="MinVolume.png" />
+    <None Remove="Music.png" />
+    <None Remove="Music_icon.png" />
+    <None Remove="Next_Btn.png" />
+    <None Remove="Pause_Btn.png" />
+    <None Remove="Play.png" />
+    <None Remove="Play_Btn.jpg" />
+    <None Remove="Prev_Btn.png" />
+    <None Remove="Random_Btn.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HotKey" Version="1.0.8369.11945" />
+    <PackageReference Include="InputSimulator" Version="1.0.4" />
+    <PackageReference Include="MaterialDesignThemes" Version="4.6.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+    <PackageReference Include="NHotkey.Wpf" Version="2.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="ListMusic.png" />
+    <Resource Include="Music_icon.png" />
+  </ItemGroup>
+
+</Project>
